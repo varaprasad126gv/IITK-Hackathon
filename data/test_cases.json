@@ -1,0 +1,6 @@
+[
+  {"text": "Modi is the PM of India", "expected": "Correct"},
+  {"text": "Modi is the PM of UK", "expected": "Incorrect"},
+  {"text": "India will win 2027 world cup", "expected": "Future Prediction"},
+  {"text": "AI is dangerous", "expected": "Opinion"}
+]
