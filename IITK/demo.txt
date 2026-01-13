@@ -1,0 +1,45 @@
+==================== DEMO RESULTS ====================
+
+Input:
+The sky is blue. The sky is not blue.
+
+Output:
+Verdict: Inconsistent
+Reason: Logical contradiction detected between statements
+Confidence: 0.9
+Score: 75
+
+------------------------------------------------------
+
+Input:
+Modi is the Prime Minister of UK
+
+Output:
+Verdict: Inconsistent
+Reason: Factual inconsistency detected
+Confidence: 0.95
+Score: 60
+
+------------------------------------------------------
+
+Input:
+India will become the largest economy by 2035
+
+Output:
+Verdict: Predictive
+Reason: Future-oriented claim, cannot be verified at present
+Confidence: 0.5
+Score: 70
+
+------------------------------------------------------
+
+Input:
+Artificial Intelligence is transforming industries
+
+Output:
+Verdict: Consistent
+Reason: General factual statement with no contradictions
+Confidence: 0.8
+Score: 95
+
+======================================================
